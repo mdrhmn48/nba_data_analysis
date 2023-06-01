@@ -164,3 +164,8 @@ cython_debug/
 __pycache__
 
 nba.zip
+nba.sqlite
+nba.sqlite3
+csv/
+.venv
+.vscode
