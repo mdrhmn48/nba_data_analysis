@@ -4,3 +4,25 @@
 #
 #    pip-compile requirements.in
 #
+numpy==1.24.3
+    # via
+    #   -r requirements.in
+    #   pandas
+pandas==2.0.2
+    # via -r requirements.in
+python-dateutil==2.8.2
+    # via
+    #   -r requirements.in
+    #   pandas
+pytz==2023.3
+    # via
+    #   -r requirements.in
+    #   pandas
+six==1.16.0
+    # via
+    #   -r requirements.in
+    #   python-dateutil
+tzdata==2023.3
+    # via
+    #   -r requirements.in
+    #   pandas

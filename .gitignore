@@ -162,6 +162,10 @@ cython_debug/
 .DS_Store
 .vscode
 __pycache__
-csv/
-nba.sqlite
+
 nba.zip
+nba.sqlite
+nba.sqlite3
+csv/
+.venv
+.vscode
