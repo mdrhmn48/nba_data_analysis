@@ -169,3 +169,7 @@ nba.sqlite3
 csv/
 .venv
 .vscode
+export/
+
+
+
